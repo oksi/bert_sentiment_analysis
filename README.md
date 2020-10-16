@@ -1,4 +1,5 @@
-# Sentiment Analysis wirh Deep Learning using BERT
+# Sentiment Analysis with Deep Learning using BERT
+
 
 ### Itroduction
 This is a practical part of the Coursera Guided Project created by the Coursera Project Network.
@@ -11,3 +12,8 @@ This is a practical part of the Coursera Guided Project created by the Coursera 
 * Design BERT finetuning architecture
 * Evaluate performance using F1 scores and accuracy
 * Finetune BERT using training loop
+
+### Data
+We will use the [SMILE Twitter dataset](https://doi.org/10.6084/m9.figshare.3187909.v2)
+
+_Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset.
